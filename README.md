@@ -1,5 +1,5 @@
 # Sudoku
-> A sudoku generating and solving algorithm built with ❤ and JavaFX
+> A sudoku generating and solving algorithm built with  JavaFX
 
 This is a practical learning for Operating Systems-2. However, to have fun and learn
 new stuff we added some features and build UI to make stuff more fun and user-friendly.
